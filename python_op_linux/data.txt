@@ -1,0 +1,6 @@
+date
+free -m
+df -h
+uptime
+hostname -I
+vmstat 2 1
